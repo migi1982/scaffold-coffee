@@ -1,0 +1,1 @@
+console.info('e.g. jQuery')
